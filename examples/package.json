@@ -1,0 +1,12 @@
+{
+  "name": "agentic-commerce-examples",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@agentic-commerce/core": "*",
+    "@agentic-commerce/edi-bridge": "*"
+  }
+}
