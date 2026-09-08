@@ -1,5 +1,12 @@
 # agentic-commerce-sdk
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Agentic-Commerce-19C332?style=for-the-badge" alt="Agentic Commerce" />
+  <img src="https://img.shields.io/badge/Status-Pioneer-white?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
+</div>
+
+
 > Die Zukunft des B2B-Commerce ist nicht Mensch-zu-Mensch, sondern Agent-zu-Agent.
 
 Kein PDF-Angebot. Kein Telefon. Kein Fax. Agenten verhandeln, bestellen und bezahlen direkt — in Millisekunden statt Tagen. Das **Agentic Commerce SDK** schlägt die Brücke zwischen der alten B2B-Welt (EDI, E-Mail-Bestellungen) und der neuen M2M (Machine-to-Machine) Economy.
