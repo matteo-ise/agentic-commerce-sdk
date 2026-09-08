@@ -76,6 +76,14 @@ const bridge = new EdiBridge();
 const edifact = bridge.generateEdifactOrders('ORD-12345');
 \`\`\`
 
+
+## 🚀 Quantum Leap Architecture: Game-Theoretic MCTS
+
+LLMs sind schlechte Verhandler (Sycophancy). Wir trennen die Sprache von der Mathematik:
+- **Monte Carlo Tree Search (MCTS):** Ein deterministischer Solver berechnet das Nash-Gleichgewicht und die Pareto-Front.
+- **Rubinstein Bargaining:** Das LLM übersetzt nur die vom Solver berechneten harten Limits in B2B-Payloads. Der Agent ist mathematisch unfähig, unrentable Deals anzunehmen.
+
+
 ---
 
 **Teil des Agentic Commerce Stack von Matteo Ise:**
