@@ -7,6 +7,12 @@
 </div>
 
 
+> [!NOTE]
+> **Proof of Concept & Infrastructure Blueprint**  
+> Dieses Repository ist Teil einer konzeptionellen Infrastruktur für Agentic Commerce. Es dient als **Proof of Concept (PoC)** und Framework-Vorlage. Der Code ist experimentell und soll Entwicklern als Ausgangspunkt dienen, um eigene M2M- und Agenten-Systeme weiterzuentwickeln. Es handelt sich noch nicht um ein finales, produktionsreifes Release.
+
+
+
 > Die Zukunft des B2B-Commerce ist nicht Mensch-zu-Mensch, sondern Agent-zu-Agent.
 
 Kein PDF-Angebot. Kein Telefon. Kein Fax. Agenten verhandeln, bestellen und bezahlen direkt — in Millisekunden statt Tagen. Das **Agentic Commerce SDK** schlägt die Brücke zwischen der alten B2B-Welt (EDI, E-Mail-Bestellungen) und der neuen M2M (Machine-to-Machine) Economy.
@@ -76,12 +82,6 @@ const bridge = new EdiBridge();
 const edifact = bridge.generateEdifactOrders('ORD-12345');
 \`\`\`
 
-
-## 🚀 Quantum Leap Architecture: Game-Theoretic MCTS
-
-LLMs sind schlechte Verhandler (Sycophancy). Wir trennen die Sprache von der Mathematik:
-- **Monte Carlo Tree Search (MCTS):** Ein deterministischer Solver berechnet das Nash-Gleichgewicht und die Pareto-Front.
-- **Rubinstein Bargaining:** Das LLM übersetzt nur die vom Solver berechneten harten Limits in B2B-Payloads. Der Agent ist mathematisch unfähig, unrentable Deals anzunehmen.
 
 
 ---
